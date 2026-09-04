@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm the online bot",
+        "Im the online bot",
+        "Im The Online Bot"
       ]
     },
     "chat-log": true,
