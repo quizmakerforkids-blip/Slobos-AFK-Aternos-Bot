@@ -1,3 +1,4 @@
+
 {
   "name": "AFK Bot",
   "bot-account": {
@@ -6,7 +7,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Error404-OrphanFound.aternos.me
+    "ip": "Error404-OrphanFound.aternos.me",
     "port": 57527,
     "version": "1.21.11",
     "try-creative": false
